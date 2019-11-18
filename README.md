@@ -1,6 +1,6 @@
 # Production_Strategy_Development
 
-# Production Strategy Development using Fuzzy Logic
+Production Strategy Development using Fuzzy Logic
 
 This project is about production strategy development.
 As this process is commonly based on expert knowledge our model allows for a transparent and repeatable decision simulation using fuzzy logic.
