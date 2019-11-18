@@ -7,6 +7,10 @@ As this process is commonly based on expert knowledge our model allows for a tra
 
 The modeled rules and structure may be used for electric vehicle production sites in Africa.
 
+Developed at the Institute of Automotive Technology, Technical University of Munich.
+
+Contact: Broenner@ftm.mw.tum.de
+
 ----
 ## Getting started
 
