@@ -20,6 +20,22 @@ The decision rule base may be updated use case-specific by adapting the fuzzy lo
 
 Inputs and output may also be added based on the specific application case.
 
+With the extension for data input via CSV.file and the scripts for automated simulation (Scenario_Simulation.m) and plot of different scenarios (Scenario_Plot.m) the applicability has been improved.
+
+The template of the CSV.file is also included.
+
+The application follows the steps:
+
+1. Enter the values to be simulated in Scenario_Template.csv
+
+2. Import of the template into Matlab
+
+3. Change the number of scenarios in Scenario_Simulation.m
+
+4. Execution of the script Scenario_Simulation.m
+
+5. Execution of the script Scenario_Plot.m
+
 ----
 ## Deployment
   
