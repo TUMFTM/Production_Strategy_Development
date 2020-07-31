@@ -61,6 +61,7 @@ This project is licensed under the LGPL License - see the LICENSE.md file for de
 ----
 ## changelog
 
+V2: Extension for data input via CSV.file and the scripts for automated simulation (Scenario_Simulation.m) and plot of different scenarios (Scenario_Plot.m).
 
 ----
 ## thanks
